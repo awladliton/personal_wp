@@ -1,0 +1,5 @@
+
+.gitignore
+.idea/*
+wp-content/upgrade/
+wp-content/uploads/*
